@@ -3,7 +3,7 @@ import logging
 from telethon import TelegramClient
 
 from os import getenv
-from AltBots.data import ALTRON
+from SavvyBots.data import SAVVY
 
 
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s', level=logging.WARNING)
@@ -27,10 +27,10 @@ BOT_TOKEN8 = getenv("BOT_TOKEN8", default=None)
 BOT_TOKEN9 = getenv("BOT_TOKEN9", default=None)
 BOT_TOKEN10 = getenv("BOT_TOKEN10", default=None)
 
-SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="5518687442").split()))
-for x in ALTRON:
+SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="6755880898").split()))
+for x in SAVVY:
     SUDO_USERS.append(x)
-OWNER_ID = int(getenv("OWNER_ID", default="5518687442"))
+OWNER_ID = int(getenv("OWNER_ID", default="6755880898"))
 SUDO_USERS.append(OWNER_ID)
 
 

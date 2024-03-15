@@ -5,7 +5,7 @@
 <p align="center"><a href="https://t.me/about_ranavanshi_divy"><img src="" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using this op XBOTS. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op SavvyXSpam. That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
